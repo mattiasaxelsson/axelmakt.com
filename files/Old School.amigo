@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROPERTIES>
+  <VALUE name="background" val="cccccc"/>
+  <VALUE name="highlight" val="555555"/>
+  <VALUE name="shadow" val="dddddd"/>
+  <VALUE name="wave" val="00ff66"/>
+  <VALUE name="wave_background" val="282828"/>
+  <VALUE name="logo" val="888888"/>
+  <VALUE name="slices" val="c70000"/>
+  <VALUE name="startEnd" val="ffb000"/>
+  <VALUE name="loop" val="ffe05f"/>
+  <VALUE name="parameter_text" val="333333"/>
+</PROPERTIES>
